@@ -1,0 +1,44 @@
+.content{
+    text-align: left;
+    padding:40px 15px;
+ 
+}
+
+.Container{
+    margin:0 auto;
+}
+
+.hds{
+    padding-bottom:10px;
+}
+.hds2{
+     font-size:15px;
+}
+
+.Container1{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.section{
+    display:"flex";
+}
+.bottom{
+   background: #2E3191 0% 0% no-repeat padding-box;
+    opacity: 0.43;
+    position: absolute;
+    width: 251px;
+    height: 50px;
+     bottom: 0px;
+     display:flex;
+     align-item:center;
+     text-align:center;
+     justify-content:space-between;
+     padding:auto;
+     font-size:14px;
+     color: #FFFFFF;
+     letter-spacing: 0px;
+     
+     
+  /* left: 16px; */
+}

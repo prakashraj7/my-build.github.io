@@ -1,0 +1,21 @@
+.als{
+    background-color:#2E3191;
+    width: 100%;
+    height: 126px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.ptx{
+    color:white;
+    border: 1px solid  white; 
+    padding: 20px 110px;
+}
+.left1{
+    display:flex;
+}
+.right2{
+    display:flex;
+}

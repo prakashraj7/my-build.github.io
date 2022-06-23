@@ -1,0 +1,132 @@
+section{
+    height:785px;
+background: #F5F5F5 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.container{
+  
+
+
+}
+
+.item1a{
+    display:flex;
+    width: 736px;
+    height: 180px;
+
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+  
+}
+.yons{
+    position:relative;
+    display:flex;
+    margin-bottom:35px;
+}
+
+.item1acnt{
+    text-align: left;
+    font: normal normal normal 22px/32px Oswald;
+    letter-spacing: 0px;
+    color: #2E3191;
+    opacity: 1;
+    font-size:22px;
+    /* padding:10x 0px; */
+}
+.tx{
+    text-align: left;
+    font: normal normal normal 15px/24px Niramit;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;  
+}
+
+.jus{
+    top: 2702px;
+    left: 912px;
+    width: 315px;
+    height: 397px;
+
+    background: #F9F9F9 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+
+    display:flex;
+    aign-item:center;
+    justify-content:center;
+
+}
+
+.cnt1{
+width: 245px;
+height: 229px;
+opacity: 1;
+/* border:2px solid green; */
+display:flex;
+margin-top:25%;
+}
+
+.cthead{
+    width: 72px;
+    height: 89px;
+    text-align: left;
+    font: normal normal normal 26px/50px Oswald;
+    letter-spacing: 0px;
+    color: #2E3191;
+    opacity: 1;
+    }
+
+.ctheadp{
+    text-align: left;
+font: normal normal normal 15px/24px Niramit;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+
+.ess{
+    display:flex;
+    justify-content:flex-end; 
+}
+
+.bttm-sec{
+width: 1088px;
+height: 150px;
+
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+
+.igs{
+    width: 562px;
+    height: 150px;
+}
+.rns{
+    display:flex;
+    align-item:center;
+    justify-content:center;
+}
+.htec{
+
+text-align: center;
+font: normal normal normal 22px/30px Oswald;
+letter-spacing: 0px;
+color: #2E3191;
+opacity: 1;
+font-size:24px;
+margin-top:10%;
+}
+.htec1{
+
+text-align: center;
+
+
+opacity: 1;
+
+margin-top:10%;
+}
+

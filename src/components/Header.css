@@ -1,0 +1,49 @@
+.quin1{
+    background:transparent;
+    /* height:80px; */
+    display:flex;
+    justify-content:space-between;
+    z-index:999;
+    position:sticky;
+    top:0;
+    padding:20px;
+}
+
+.quin1.active{
+    background:white;
+}
+
+.tazz{
+   /* background: transparent url('./images/bgb.jpg') 0% 0% no-repeat  padding-box; */
+   background-color:#AFAFAF;
+    opacity: 1;
+   height: 595px;
+   position:relative;
+    }
+
+    .too{
+   background: transparent url('./images/img9.png') 0% 0% no-repeat padding-box;
+        /* padding:-150px; */
+        height:600px;
+        margin-left:25%;
+   position:relative;
+
+    }
+  .kad{
+    position:absolute;
+    bottom:6rem;
+    z-index:2;
+    /* border:2px solid white; */
+    height:315px;
+    width:510px;
+    margin-left:10%;
+    color:white;
+  }
+  .kad1{
+    position:absolute;
+    bottom:10rem;
+    padding:30px ;
+    color:white;
+ 
+  }
+
